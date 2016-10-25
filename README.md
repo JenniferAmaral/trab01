@@ -1,5 +1,6 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho desenvolvido durante a disciplina 
+link para o trabalho : https://github.com/annavicente/trab01
 
 #Sumário
 
